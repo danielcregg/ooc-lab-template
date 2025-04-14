@@ -1,1 +1,1 @@
-# ooc1-codespace-starter-template
+# ooc-lab-template
